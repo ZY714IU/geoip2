@@ -1,8 +1,8 @@
 ### 📥 下载链接
-| 项目 | 文件 | GitHub RAW |
-| :--: | :--: | :--: |
-| GeoIP2 | Country-only-cn-private.mmdb | [点我下载](https://raw.githubusercontent.com/ZY714IU/geoip/release/Country-only-cn-private.mmdb) |
-| asn | Country-asn.mmdb | [点我下载](https://raw.githubusercontent.com/ZY714IU/geoip/release/Country-asn.mmdb) |
+| 项目 | 文件 | GitHub RAW | CDN 加速
+| :--:  | :--:  | :--: | :--:
+| GeoIP | Country-only-cn-private.mmdb | [下载](https://raw.githubusercontent.com/ZY714IU/geoip/release/Country-only-cn-private.mmdb) | [下载](https://cdn.jsdelivr.net/gh/ZY714IU/geoip@release/Country-only-cn-private.mmdb)
+| ASN | Country-asn.mmdb | [下载](https://raw.githubusercontent.com/ZY714IU/geoip/release/Country-asn.mmdb) | [下载](https://cdn.jsdelivr.net/gh/ZY714IU/geoip@release/Country-asn.mmdb)
 
 # 简介
 
